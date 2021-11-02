@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-box {
+  text-align: center;
+  height: 250px;
+  width: 400px;
+  background-color: red;
+  border-radius: 20px;
+  margin: 0 auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.greeting {
+  height: 40px;
+  padding-top: 15px;
+  font-size: 30px;
+  color: white;
+  line-height: 50px;
+}
+
+.mGreet {
+  font-size: 80px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+.name {
+  margin-top: 75px;
+  padding-top: 30px;
+  height: 100px;
+  background-color: white;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+
