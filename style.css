@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: aliceblue;
+}
+
 .main-box {
   text-align: center;
   height: 250px;
@@ -20,6 +24,19 @@
   font-size: 30px;
   color: white;
   line-height: 50px;
+}
+
+.change {
+  text-align: center;
+  margin: 50px auto;
+  padding: 50px auto;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.change button {
+  margin-bottom: 40px;
 }
 
 .mGreet {
